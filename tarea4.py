@@ -230,3 +230,4 @@ for json_data in json_data_list:
     else:
         print(f'Error al enviar JSON a la API. Código de estado: {response.status_code}')
 
+#fasd
